@@ -1,4 +1,4 @@
-﻿HDOAReference,Host,Origin,MorphospeciesCode,FinalID,FinalIDcommonname,DistributionNotes,HostNotes
-Interception 1103,Strawberry,California,HDOA251015_009_M3,Lorem Ipsum1,Bug,New for HI,
-Interception 111,Mint,Mexico,HDOA250917_034_M2,Lorem Ipsum2,Bug2,"Cosmopolitan, all HI islands",
-Interception 111,Mint,Mexico,HDOA250917_034_M1,Lorem Ipsum3,Bug3,"Cosmopolitan, all HI islands",
+﻿HDOAReference,Host,Origin,morphospeciescode,FinalID,FinalIDcommonname,DistributionNotes,HostNotes,speciescount
+Interception 1103,Strawberry,California,HDOA260619_113_M3,Lorem Ipsum1,Bug,New for HI,,4
+Interception 111,Mint,Mexico,HDOA250917_034_M2,Lorem Ipsum2,Bug2,"Cosmopolitan, all HI islands",,3
+Interception 111,Mint,Mexico,HDOA250917_034_M1,Lorem Ipsum3,Bug3,"Cosmopolitan, all HI islands",,6
