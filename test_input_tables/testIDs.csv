@@ -1,4 +1,4 @@
-﻿HDOAReference,Host,Origin,morphospeciescode,FinalID,FinalIDcommonname,DistributionNotes,HostNotes,speciescount
-Interception 1103,Strawberry,California,HDOA260619_113_M3,Lorem Ipsum1,Bug,New for HI,,4
-Interception 111,Mint,Mexico,HDOA250917_034_M2,Lorem Ipsum2,Bug2,"Cosmopolitan, all HI islands",,3
-Interception 111,Mint,Mexico,HDOA250917_034_M1,Lorem Ipsum3,Bug3,"Cosmopolitan, all HI islands",,6
+﻿hdoareference,datecollected,host,origin,morphospeciescode,finalidfamily,finalidorder,finalid,genusorlower,finalidcommonname,distributionnotes,hostnotes,speciescount,specimencount
+Interception 1103,1/1/26,Strawberry,California,HDOA260619_113_M3,Dontknowidae,Lepidoptera,Lorem Ipsum1,FALSE,Bug,New for HI,,4,40
+Interception 111,3/4/22,Mint,Mexico,HDOA250917_034_M2,Maybidae,Coleoptera,Delia platura,TRUE,Spider,"Cosmopolitan, all HI islands",,3,10
+Interception 111,May 12 2010,Mint,Mexico,HDOA250917_034_M1,Testidae,Hemiptera,Lorem Ipsum3,FALSE,Bug3,"Cosmopolitan, all HI islands",,6,1
