@@ -1,6 +1,7 @@
 .DS_Store
 .connectstring*
-/output_alignments
+/Combined_reports
+/Individual_reports
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
